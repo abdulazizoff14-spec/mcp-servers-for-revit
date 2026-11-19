@@ -127,6 +127,11 @@
       "commandName": "create_sheets_from_list",
       "description": "Create many sheets from a list of numbers and names, optionally placing a view on each (one undo)",
       "assemblyPath": "RevitMCPCommandSet.dll"
+    },
+    {
+      "commandName": "model_audit",
+      "description": "Read-only model health check: warnings, rooms, sheets, views, templates, CAD imports, in-place families, score",
+      "assemblyPath": "RevitMCPCommandSet.dll"
     }
   ]
 }
