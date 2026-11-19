@@ -122,6 +122,11 @@
       "commandName": "create_dimensions",
       "description": "Create dimension annotations between elements or points in the current view",
       "assemblyPath": "RevitMCPCommandSet.dll"
+    },
+    {
+      "commandName": "create_sheets_from_list",
+      "description": "Create many sheets from a list of numbers and names, optionally placing a view on each (one undo)",
+      "assemblyPath": "RevitMCPCommandSet.dll"
     }
   ]
 }
