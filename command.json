@@ -132,6 +132,11 @@
       "commandName": "model_audit",
       "description": "Read-only model health check: warnings, rooms, sheets, views, templates, CAD imports, in-place families, score",
       "assemblyPath": "RevitMCPCommandSet.dll"
+    },
+    {
+      "commandName": "rename_renumber_rooms",
+      "description": "List, rename and renumber rooms (specific or auto by level), no duplicates, preview option, one undo",
+      "assemblyPath": "RevitMCPCommandSet.dll"
     }
   ]
 }
